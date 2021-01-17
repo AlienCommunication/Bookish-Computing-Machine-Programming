@@ -1,5 +1,5 @@
 """ Bar Module"""
 
-from .foo import sunday
+from foo import sunday
 
 print(sunday())
